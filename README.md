@@ -14,23 +14,19 @@ Lấy cảm hứng từ bộ môn Golf, Golfin' Around mô phỏng lại môn th
 
 <img src="choose.png" alt="drawing" width="800"/>
 
+Sau khi bắt đâu, người chơi ấn và kéo thả quả bóng vào vị trí như mũi tên, điều chỉnh lực sao cho hợp lý. Ngoài ra ở các map có một số chướng ngại vật và vật cản đặc biệt có thể thấy như dưới:
+
+<img src="htp.png" alt="drawing" width="800"/>
+
+
 Sau đó thực hiện đánh bóng vào bị trí lỗ được sắp đặt.
 
 <img src="map.png" alt="drawing" width="800"/>
 
-Hiện tại trò chơi có 6 map, người lập trình hoàn toàn có thể tạo 
+Hiện tại trò chơi có 5 map, người lập trình hoàn toàn có thể tạo thêm theo mong muốn dựa trên các map sẵn có. Hoàn thành 5 lỗ dưới 100 phát đánh sẽ chiến thắng :D !
 
 
+## Trích dẫn 
+Game này được phát triển dựa trên game của PolyMars (Link: https://www.youtube.com/watch?v=iEn0ozP-jxc)
 
-## Repository này chứa 
-- Bản báo cáo dạng Doc (142 trang)
-
-- Bản báo cáo dạng PDF (142 trang)
-
-- Slide thuyết trình
-
-- Video Demo sản phẩm: 
-Link: https://drive.google.com/file/d/1c6ebZECrmatTo8FEPoIv_Q6_hkxI5Jdm/view?fbclid=IwAR20yfxdB01mE-0Ao3fK_VOI50aR2WOzajzLkyPNBtdruFQTKOvZBDvSPa0
-
-- và cái README.md bạn đang đọc :D 
 
