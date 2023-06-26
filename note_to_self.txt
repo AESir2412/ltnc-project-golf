@@ -1,0 +1,10 @@
+Golf Upgrade:
+
++ Tile, nước,... liền (tạo ô 3x3 và  des theo viền ngoài)
++ Moving projectile
++ Des khác (nếu có time)
++ Menu game, help
++ Nhạc nền
++ 3 stars res after each map
+
+

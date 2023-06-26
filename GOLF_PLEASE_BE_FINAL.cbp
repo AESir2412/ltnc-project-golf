@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GOLF_PLEASE_BE_FINAL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GOLF_PLEASE_BE_FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GOLF_PLEASE_BE_FINAL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Ball.h" />
+		<Unit filename="Entity.h" />
+		<Unit filename="Hole.h" />
+		<Unit filename="Ice.cpp" />
+		<Unit filename="Ice.h" />
+		<Unit filename="Math.h" />
+		<Unit filename="RenderWindow.h" />
+		<Unit filename="Sand.cpp" />
+		<Unit filename="Sand.h" />
+		<Unit filename="Spring.cpp" />
+		<Unit filename="Spring.h" />
+		<Unit filename="Tile.h" />
+		<Unit filename="Water.cpp" />
+		<Unit filename="Water.h" />
+		<Unit filename="ball.cpp" />
+		<Unit filename="entity.cpp" />
+		<Unit filename="hole.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="renderwindow.cpp" />
+		<Unit filename="tile.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
